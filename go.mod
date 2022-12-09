@@ -1,6 +1,5 @@
-//module github.com/techswarn/hugo-module-test
-// +heroku install ./cmd/...
+module github.com/SummittDweller/sample-hugo
 
 go 1.12
 
-require github.com/SummittDweller/hugo-timeline v0.0.0-20221208043749-f0b3c058dc74 // indirect
+require github.com/SummittDweller/hugo-timeline v0.0.0-20221207133402-a326a70e64d0 // indirect
