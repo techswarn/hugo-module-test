@@ -1,4 +1,5 @@
-module github.com/techswarn/hugo-module-test
+//module github.com/techswarn/hugo-module-test
+// +heroku install ./cmd/...
 
 go 1.12
 
