@@ -1,4 +1,4 @@
-module github.com/SummittDweller/sample-hugo
+module github.com/techswarn/hugo-module-test
 
 go 1.12
 
